@@ -1,0 +1,1 @@
+{\n  "name": "text-rpg-ai-engine",\n  "version": "1.0.0",\n  "description": "A text-based RPG with AI components.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node server.js",\n    "test": "echo 'No tests specified' && exit 0"\n  },\n  "author": "Your Name",\n  "license": "MIT",\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.12.3"\n  }\n}
